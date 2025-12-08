@@ -14,7 +14,7 @@ void embaralharVetor(int *dados,int tam){
 
 int inserirVetor(int *dados, int tam){
     int i;
-    for(i = 0; i < tam; i++) dados[i] = i + 1;  // Gera um velor com valores entre 0 a tam N
+    for(i = 0; i < tam; i++) dados[i] = i + 1;  // Gera os valores do vetor de 0 a N tam
     embaralharVetor(dados, tam); // chama a função para aleatorizar
     return *(dados);
 }

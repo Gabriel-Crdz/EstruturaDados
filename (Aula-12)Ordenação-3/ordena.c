@@ -12,15 +12,15 @@ void troca(int *A,int *B){
 void bubbleSort(int *vet, int n){
     int i, j, trocou, aux;
     j = 1;
-    trocou = 1;  // Sinalizador. Se houve trocas é porque há algo fora de ordem, e precisa continuar
-    while ((j < n) && trocou){ // Continua enquanto houve trocas e não esgotou o vetor
-        trocou = 0; // Nessa passada não houve trocas
+    trocou = 1;  
+    while ((j < n) && trocou){ 
+        trocou = 0; 
         for (i = 0; i < (n - j); i++){
-            if (vet[i] > vet[i + 1]){ // Se o elemento é maior que o próximo, troca
+            if (vet[i] > vet[i + 1]){
                 aux = vet[i];
                 vet[i] = vet[i + 1];
                 vet[i + 1] = aux;
-                trocou = 1; // Sinaliza que houve uma troca
+                trocou = 1;
             }
         }
         j++;
