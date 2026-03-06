@@ -5,7 +5,7 @@
 * ***HORA AULA:*** 80h
 * ***HORA RELOGIO:*** 67h
 
-#### Tecnologias: C, VS Code
+#### Linguagem: C
 
 ### Objetivo:
 Possibilitar ao aluno o entendimento das técnicas de organização de dados
