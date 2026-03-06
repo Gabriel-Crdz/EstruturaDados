@@ -5,7 +5,7 @@
 * ***HORA AULA:*** 80h
 * ***HORA RELOGIO:*** 67h
 
-#### Linguagem: C
+- **Linguagem:** C
 
 ### Objetivo:
 Possibilitar ao aluno o entendimento das técnicas de organização de dados
