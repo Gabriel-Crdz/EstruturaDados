@@ -5,6 +5,8 @@
 * ***HORA AULA:*** 80h
 * ***HORA RELOGIO:*** 67h
 
+#### Tecnologias: C, VS Code
+
 ### Objetivo:
 Possibilitar ao aluno o entendimento das técnicas de organização de dados
 heterogêneos, em relação à eficiência de ocupação de espaço de
